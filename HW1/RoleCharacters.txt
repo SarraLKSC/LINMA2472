@@ -1,0 +1,77 @@
+Name, Role
+HARRY POTTER /MR. POTTER /THE BOY WHO LIVED /HARRY /POTTER, the boy who lived main character of the series.
+RON WEASLEY /RON, harry's best friend marries hermione.
+RUBEUS HAGRID /RUBEUS /HAGRID, half-giant who loves harry he was the keeper of keys and grounds at hogwards.
+HERMIONE GRANGER /HERMIONE /GRANGER, one of harry's best friend and marries ron weasley.
+DRACO MALFOY /DRACO /MALFOY, slytherin student who had many arguments with harry.
+ADALBERT WAFFLING /ADALBERT /WAFFLING, author of magical theory.
+ADRIAN PUCEY, a chaser on the slytherin quidditch team.
+ALBUS DUMBLEDORE /DUMBELDORE /ALBUS, headmaster of hogwards killed by snape.
+ALGIE LONGBOTTOM /ALGIE, nevill's great uncle.
+ALICIA SPINNET, a gryffindor girl two years older than harry.
+ANGELINA JOHNSON, a gryffindor house chaser.
+ARGUS FILCH /ARGUS /FILCH, squib caretake of hogwards.
+ARSENIUS JIGGER /PHYLLIDA /SPORE, author of magical drafts and potions.
+BATHILDA BAGSHOT /BATHILDA /BAGSHOT, author of a history of magic.
+BLAISE ZABINI /BLAISE /ZABINI, a slytherin boy in harry's year.
+BLOODY BARON, the slytherian house ghost.
+CHARLIE WEASLEY, second son of arthur and molly works with dragons in romania.
+DEDALUS DIGGLE /DEDALUS /DIGGLE, a member of the order of the phpenix who harry met in the leaky cauldron.
+DORIS CROCKFORD /CROCKFORD /DORIS, a witch harry met in the leaky cauldron.
+DUDLEY DURSLEY /DUDLEY, muggle son of vernon and petunia and first-cousin of harry.
+ENID, was the wife of algie longbottom, and thus the aunt by marriage of frank longbottom, and the great-aunt of neville longbottom.
+FRED WEASLEY /FRED, identical twin with george and co-owner of weasleys' wizard wheezes.
+GEORGE WEASLEY /GEORGE, identical twin with fred and co-owner of weasleys' wizard wheezes.
+GINNY WEASLEY /GINNY, marries harry potter and only daughter of molly and arthur.
+GREGORY GOYLE /GREGORY /GOYLE, best friend of crabbe slytherin student and dies by falling into fiendfyre.
+GREGORY THE SMARMY, a medieval wizard who created gregory's unctuous unction.
+GRINGOTTS SPOKESGOBLIN, a goblin engaged or elected to speak on behalf of others.
+HANNAH ABBOTT /HANNAH /ABBOTT, a hufflepuff girl in harry's year.
+JAMES POTTER /THE POTTERS, father of harry murdered by voldemort.
+JIM MCGUFFIN /MUGGLE WEATHERMAN /WEATHERMAN /MCGUFFIN, jim mcguffin was the weatherman on the evening news vernon dursley was watching on november 1 1981.
+JUSTIN FINCH-FLETCHEY /JUSTIN /FINCH-FLETCHEY, a muggle born hufflepuff boy in harry's year.
+KATIE BELL /KATIE, a gryffindor girl 1 year above harry.
+LEE JORDAN /LEE /JORDAN, a boy with dreadlocks 2 years older than harryand best friends with fred and george weasley.
+LILY POTTER /MRS. POTTER /THE POTTERS, mother of harry murdered by voldemort.
+LISA TURPIN /LISA /TURPIN, a girl in harry's year.
+LUCIUS MALFOY /LUCIUS /MR... MALFOY /DRACO FATHER, father of draco and influential death-eater.
+MADAM HOOCH, she teaches flying class to first years.
+MADAM MALKIN /MALKIN /MRS. MALKIN, she owns the robes shop in diagon alley.
+MADAM POMFREY /POPPY POMFREY /POPPY/POMFREY, she is the hogwarts nurse.
+MANDY BROCKLEHURST /MANDY /BROCKLEHURST, a girl in harry's year.
+MARCUS FLINT, a boy in the slug club.
+MILLICENT BULSTRODE /MILLICENT /BULSTRODE, an ugly slytherian girl in harry's grade who has a cat.
+MINERVA MCGONAGALL /MINERVA /MCGONAGALL, head of gryffindor house and deputy headmistress of hogwarts.
+MIRANDA GOSHAWK /GOSHAWK, author of the standard book of spells series.
+MOLLY WEASLEY /MOLLY /MRS. WEASLEY, wife of arthur and mother of the weasleys kills bellatrix.
+MORAG MACDOUGAL /MORAG /MACDOUGAL, a student in harry's year.
+MR. FINNIGAN, father of seamus finnigan who harry met at the quidditch world cup.
+MRS. FINNIGAN, mother of seamus finnigan who harry met at the quidditch world cup.
+MRS. NORRIS, the best friend and cat of the caretaker argus flich..
+NARCISSA MALFOY /NARCISSA /DRACO MOTHER /MRS. MALFOY, mother of draco and sister of bellatrix..
+NEVILLE LONGBOTTOM /NEVILLE /LONGBOTTOM, gryffindor student who was a member of dumbledore's army.
+NEWT SCAMANDER /NEWT /SCAMANDER, born in 1897 as the son of a hippogriff breeder.
+NOTT, a dead eater who never went to azkaban and went to voldermort's rebirth party.
+PADMA PATIL /PADMA, a ravenclaw girl in harry's year who is the twin sister of griffindor pavarti patil.
+PARVATI PATIL /PARVATI, a ravenclaw girl in harry's year who is the twin sister of griffindor padma patil.
+PERCY WEASLEY /PRECY, third son of arthur and molly he is a gryffindor prefect.
+PERENELLE FLAMEL /PERNELLE FLAMEL /PERENELLE /MRS. FLAMEL, wife of nicholas flamel.
+PETUNIA DURSLEY /MRS. DURSLEY /MR. AND MRS. DURSLEY /THE DURSLEYS, harry's aunt and sister of lily.
+PHYLLIDA SPORE /PHYLLIDA /SPORE, author of one thousand magical herbs and fungi.
+PROFESSOR BINNS  /BINNS, a ghost teacher who teaches history of magic.
+PROFESSOR FLITWICK /FLITWICK, the charms teacher and head of ravenclaw house at hogwarts.
+PROFESSOR QUIRRELL /QUIRRELL, teacher of defense against the dark arts.
+PROFESSOR SPROUT /SPROUT, head of hufflepuff house and teacher of herbology.
+QUENTIN TRIMBLE /QUENTIN /TRIMBLE, author of the dark forces.
+SALLY-ANNE PERKS /SALLY-ANNE /PERKS, a student in harry's year.
+SEAMUS FINNIGAN /SEAMUS, best friends with dean thomas.
+SEVERUS SNAPE /SEVERUS, head of the slytherin house and saved harry in many occasions.
+SIR NICHOLAS DE MIMST-PORPINGTON /NEARLY HEADLESS NICK, gryffindor house ghost.
+SIRIUS BLACK /SIRUIS, best friend of james potter and godfather of harry.
+SUSAN BONES /SUSAN, a hufflepuff girl in harry's grade.
+TERRENCE HIGGS, the speaker of slytherin.
+TERRY BOOT /TERRY, a ravenclaw in harry's year.
+TOM MARVOLO RIDDLE /LORD VOLDEMORT /YOU-KNOW-WHO, the antagonist of the series who murdered many.
+VERNON DURSLEY /MR. DURSLEY /MR. AND MRS. DURSLEY /THE DURSLEYS, harry's muggle uncle.
+VINCENT CRABBE /VINCENT /CRABBE, slytherin student who was best friends with goyle and followed draco.
+VINDICTUS VRIDIAN /VINDICTUS /VRIDIAN, author of curses and counter-curses.
